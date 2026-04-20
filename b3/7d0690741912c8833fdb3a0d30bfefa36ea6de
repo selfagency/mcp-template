@@ -1,0 +1,70 @@
+src/schemas/index.ts
+  h_5cf1e2c1161853 1-30
+docs/guide/getting-started.md
+  h_5cf1e2c1161853 1-121
+README.md
+  h_5cf1e2c1161853 1-48
+docs/development/architecture.md
+  h_5cf1e2c1161853 1-101
+CHANGELOG.md
+  h_5cf1e2c1161853 1-10
+src/services/utility.service.ts
+  h_5cf1e2c1161853 1-66
+scripts/release.js
+  h_5cf1e2c1161853 1-564
+tsup.config.ts
+  h_5cf1e2c1161853 1-12
+docs/development/testing.md
+  h_5cf1e2c1161853 1-63
+.github/copilot-instructions.md
+  h_5cf1e2c1161853 1-64
+src/index.ts
+  h_5cf1e2c1161853 1-57
+src/services/__tests__/utility.service.test.ts
+  h_5cf1e2c1161853 1-28
+docs/tools/utility.md
+  h_5cf1e2c1161853 1-54
+src/config.ts
+  h_5cf1e2c1161853 1-63
+test/integration/mcp.tools.integration.test.ts
+  h_5cf1e2c1161853 1-71
+docs/.vitepress/config.ts
+  h_5cf1e2c1161853 1-95
+docs/index.md
+  h_5cf1e2c1161853 1-35
+docs/guide/resources.md
+  h_5cf1e2c1161853 1-51
+src/constants.ts
+  h_5cf1e2c1161853 1-3
+scripts/write-dist-package.js
+  h_5cf1e2c1161853 1-57
+src/resources/template.resources.ts
+  h_5cf1e2c1161853 1-57
+docs/development/contributing.md
+  h_5cf1e2c1161853 1-120
+package.json
+  h_5cf1e2c1161853 1-76
+src/types.ts
+  h_5cf1e2c1161853 1-23
+docs/guide/safety.md
+  h_5cf1e2c1161853 1-61
+docs/guide/configuration.md
+  h_5cf1e2c1161853 1-45
+src/tools/utility.tools.ts
+  h_5cf1e2c1161853 1-182
+docs/tools/index.md
+  h_5cf1e2c1161853 1-23
+test/e2e/mcp.e2e.test.ts
+  h_5cf1e2c1161853 1-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "b37d0690741912c8833fdb3a0d30bfefa36ea6de",
+  "prompts": {},
+  "humans": {
+    "h_5cf1e2c1161853": {
+      "author": "Daniel Sieradski"
+    }
+  }
+}
